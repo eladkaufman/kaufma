@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kaufma #
+# 👋 Hi, I’m @eladkaufman #
 I'm a Full Stack Developer, love the beauty of a well designed code, enjoy finding elegant solutions for coding challenges.
 
 ### 📫 How to reach me: ###  
